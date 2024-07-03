@@ -1,0 +1,15 @@
+[debug] [2024-07-03T10:22:59.008Z] ----------------------------------------------------------------------
+[debug] [2024-07-03T10:22:59.012Z] Command:       /home/dimi/.nvm/versions/node/v22.4.0/bin/node /home/dimi/.nvm/versions/node/v22.4.0/bin/firebase login
+[debug] [2024-07-03T10:22:59.012Z] CLI Version:   13.13.0
+[debug] [2024-07-03T10:22:59.012Z] Platform:      linux
+[debug] [2024-07-03T10:22:59.013Z] Node Version:  v22.4.0
+[debug] [2024-07-03T10:22:59.013Z] Time:          Wed Jul 03 2024 13:22:59 GMT+0300 (Eastern European Summer Time)
+[debug] [2024-07-03T10:22:59.013Z] ----------------------------------------------------------------------
+[debug] 
+[info] i  Firebase optionally collects CLI and Emulator Suite usage and error reporting information to help improve our products. Data is collected in accordance with Google's privacy policy (https://policies.google.com/privacy) and is not used to identify you.
+ 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://accounts.google.com/o/oauth2/auth?client_id=563584335869-fgrhgmd47bqnekij5i8b5pr03ho849e6.apps.googleusercontent.com&scope=email%20openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloudplatformprojects.readonly%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Ffirebase%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fcloud-platform&response_type=code&state=318300264&redirect_uri=http%3A%2F%2Flocalhost%3A9005
+[info] 
+[info] Waiting for authentication...
