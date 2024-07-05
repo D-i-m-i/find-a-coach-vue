@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d212bc4"],{aa4b:function(c,e,t){"use strict";t.r(e);var n=t("7a23");const o=Object(n["i"])("h2",null,"Page not found",-1);function b(c,e){const t=Object(n["E"])("router-link"),b=Object(n["E"])("base-card");return Object(n["w"])(),Object(n["h"])("section",null,[Object(n["k"])(b,null,{default:Object(n["N"])(()=>[o,Object(n["i"])("p",null,[Object(n["j"])(" This page could not be found - maybe check out all our "),Object(n["k"])(t,{to:"/coaches"},{default:Object(n["N"])(()=>[Object(n["j"])("coaches")]),_:1})])]),_:1})])}var u=t("6b0d"),a=t.n(u);const l={},j=a()(l,[["render",b]]);e["default"]=j}}]);
-//# sourceMappingURL=chunk-2d212bc4.81d411c4.js.map
+//# sourceMappingURL=chunk-2d212bc4.b11871a1.js.map
